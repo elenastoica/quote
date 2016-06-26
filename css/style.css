@@ -1,0 +1,74 @@
+h1 {
+    font-family: Rock Salt;
+    
+    text-align: center;
+    color: seagreen;
+}
+
+p {padding-top: 10px;
+    font-family: "Gloria Hallelujah", cursive ;
+    font-size: 100%;
+    text-align: center;
+    
+   
+}
+
+section {
+  background-color: rgba(117, 186, 140, 0.3);;
+   
+    height: 65%;
+    width: 70%;
+   
+   margin-left: 15%;
+  
+    
+   
+}
+
+body {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.btn {
+    text-decoration: none;
+    margin-top: 28px;
+  display: inline-block;
+  color: seagreen;
+  border: 2px outset seagreen;
+  background: #efefef;
+  background-color: rgba(255, 255, 255, 0.7);
+  text-shadow: 1px 1px 1px rgba(0,0,0, 20);
+  box-shadow: -10px 10px 20px rgba(100, 100, 100, .9);
+  letter-spacing: 2px;
+  transition: 0.2s;
+  
+   padding: 10px 28px;
+   margin-bottom: 20px;
+    font-size: 18px; 
+    line-height: normal;
+    -webkit-border-radius: 6px;
+       -moz-border-radius: 6px;
+            border-radius: 6px;
+         }
+
+.btn:hover {
+           color: #fff;
+  border: 2px outset rgba(0, 0, 0, 0.9);
+  background: rgba(0,0,0, 0.9);
+  transform:scale(1.1);
+  transition: 0.2s;
+  text-shadow: 1px 1px 1px rgba(0,0,0, 20);
+  box-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+  letter-spacing: 2px;
+         }
+
+footer {
+    
+    font-size: 100%;
+           
+   bottom:0;
+  
+  
+   
+}
